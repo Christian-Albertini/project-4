@@ -1,4 +1,4 @@
-Season,League,Games Played,All-Star,Plate Appearances,At Bats,Runs,Hits,Single,Double,Triple,Home Run,Runs Batted In,Stolen Bases,Caught Stealing,Walks,Strikeouts,Batting Average,On Base Percentage,Slugging Percentage,On Base Plus Slugging (OPS),On Base Plus Slugging Plus (OPS+),Total Bases
+Season,League,Games_Played,All-Star,Plate_Appearances,At_Bats,Runs,Hits,Single,Double,Triple,Home_Run,Runs_Batted_In,Stolen_Bases,Caught_Stealing,Walks,Strikeouts,Batting_Average,On_Base_Percentage,Slugging_Percentage,On_Base_Plus_Slugging_(OPS),On_Base_Plus_Slugging_Plus_(OPS+),Total_Bases
 2023,AL,93,0,312,269,44,68,50,9,1,8,36,6,0,42,69,0.253,0.353,0.383,0.735,106,103
 2023,AL,92,0,353,320,45,79,32,24,2,21,58,4,0,22,110,0.247,0.303,0.531,0.834,119,170
 2023,AL,141,0,455,412,59,99,63,21,2,13,60,11,4,32,68,0.24,0.3,0.396,0.696,94,163
