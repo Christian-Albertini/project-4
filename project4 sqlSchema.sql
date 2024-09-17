@@ -16,7 +16,8 @@ create table combined_player_Stats_cleaned_2 (
 	Slugging_Percentage float not null,
 	"On_Base_Plus_Slugging_Plus_(OPS+)" float not null,  
 	Total_Bases float not null,
+	Pos int not null,
 	Standings float not null,
-	WAR float not null
-	
+	WAR float not null,
+
 )
