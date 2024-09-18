@@ -9,4 +9,4 @@ Our project is designed to look at end-of-season statistics from MLB players who
 ![image](https://github.com/user-attachments/assets/20dd3cfd-4b4c-4a1c-9f55-b9973af13e1b)
 
 # Code Assistance
-
+We took inspiration from previous assignments and classwork for creating our models and cleaning our datasets.
