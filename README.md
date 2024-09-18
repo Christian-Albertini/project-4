@@ -10,3 +10,6 @@ Our project is designed to look at end-of-season statistics from MLB players who
 
 # Code Assistance
 We took inspiration from previous assignments and classwork for creating our models and cleaning our datasets.
+
+
+# Limitations
