@@ -16,3 +16,11 @@ We took inspiration from previous assignments and classwork for creating our mod
 There are some limitations that highlight the challenge of predicting the MLB All-Star selections. A significant portion of All-Star selections are made through fan voting, which introduces a bias. Players with larger fan bases or those in major markets are more likely to be selected regardless of their performance during the season. Players on winning teams tend to receive more attention and recognition. Players in the final years of their careers may receive All-Star selections as a form of recognition for their achievements, even if their current season statistics are not at an All-Star level. This sentimental factor is not captured by our model.
 
 The majority of players in a given season do not become All-Stars, creating an imbalance in the dataset. While techniques like SMOTE were used to address this, the inherent imbalance affects the overall performance of the model.
+
+# Current All-Star Selection Process
+- Two phases of online/in-person fan voting to determine starters at each position (non pitchers)
+- Next phase is players/coaches/managers vote for [itcers and reserves for each position
+- Managers/Commisioner's office selections to round out and fill poistional needs
+- Final fan vote for one last player selection per league
+- 32 players for each team (AL/NL) which includes 20 positional and 12 pitchers
+- Each MLB team required to have at least one player represented at the ASG
